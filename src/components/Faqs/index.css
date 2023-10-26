@@ -1,0 +1,33 @@
+/* Write your code here. */
+.bgContainer {
+  min-height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.c1 {
+  background-color: #f1f5f8;
+  min-height: 80vh;
+  min-width: 80vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 4px 0px grey;
+  padding: 20px;
+}
+.c2 {
+  background-color: white;
+  width: 75vw;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #cb8805;
+}
